@@ -1,0 +1,35 @@
+.cont{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    border-radius: 20px;
+    /* position: fixed; */
+    width: 100%;
+}
+.header-img{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(126, 7, 7);
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    width: 60%;
+    align-items: center;
+}
+.header-img2{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(126, 7, 7);
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
